@@ -1,4 +1,3 @@
-import "./App.css";
 import CounterComp from "./components/CounterComp";
 //! 1. Buat komponen memiliki hasil penambahan masing masing
 //! 2. Buat dan gunakan Higher Order Component (HOC)
